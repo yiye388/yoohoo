@@ -1,0 +1,6 @@
+Package: yoohoo
+Version: 1.0.0
+Architecture: all
+Maintainer: Miomi Kawotashi <abcdefghijk219@yahoo.com>
+Depends: python3, yt-dlp, ffmpeg, python3-tk, python3-pil
+Description: A simple YouTube downloader with a graphical interface (mp4/mp3).

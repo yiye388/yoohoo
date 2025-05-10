@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Yoohoo
+Comment=Download YouTube videos as MP4/MP3
+Exec=/usr/bin/yoohoo
+Icon=yoohoo
+Terminal=false
+Type=Application
+Categories=Utility;Video;Internet;
