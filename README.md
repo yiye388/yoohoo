@@ -18,3 +18,10 @@ You can download and install the latest version from the releases section of thi
   git clone https://github.com/yiye388/yoohoo.git
   cd yoohoo
   python3 yoohoo.py
+
+### Want a raw installation? Here you go!
+  ```bash
+  wget https://github.com/yiye388/yoohoo/releases/download/Version_v0.1/yoohoo_deb.deb
+sudo apt install ./yoohoo_deb.deb
+  ```
+### Thank you for reading this! Have a nice day! I hope atleast!
